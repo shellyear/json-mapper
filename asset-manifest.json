@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siteone_task/static/css/main.34de6062.chunk.css",
+    "main.js": "/siteone_task/static/js/main.faed8102.chunk.js",
+    "main.js.map": "/siteone_task/static/js/main.faed8102.chunk.js.map",
+    "runtime~main.js": "/siteone_task/static/js/runtime~main.ef533b89.js",
+    "runtime~main.js.map": "/siteone_task/static/js/runtime~main.ef533b89.js.map",
+    "static/js/2.cd52b8a7.chunk.js": "/siteone_task/static/js/2.cd52b8a7.chunk.js",
+    "static/js/2.cd52b8a7.chunk.js.map": "/siteone_task/static/js/2.cd52b8a7.chunk.js.map",
+    "index.html": "/siteone_task/index.html",
+    "precache-manifest.13f0878ab32c598c9e96eb2b431c68a9.js": "/siteone_task/precache-manifest.13f0878ab32c598c9e96eb2b431c68a9.js",
+    "service-worker.js": "/siteone_task/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/siteone_task/static/css/main.34de6062.chunk.css.map"
+  }
+}
